@@ -16,6 +16,9 @@ nav:
   home: /
   about: /about/
   articles: /archives/
+  tags: /tags/
+  categories: /categories/
+  search: /search/
   projects: http://github.com/adversarr
 
 
